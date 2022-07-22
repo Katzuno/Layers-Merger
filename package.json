@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-images": "^2.2.1",
+    "sharp": "^0.30.7"
+  }
+}
